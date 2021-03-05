@@ -1,5 +1,5 @@
 =======
-ipwhois
+whoisPython
 =======
 
 .. image:: https://travis-ci.org/secynic/ipwhois.svg?branch=master
